@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+# 📱 My Social App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A sleek and modern **social networking frontend** built using **React Native + Expo**.  
+This app allows users to connect, discover content, and interact within a smooth mobile interface.
 
-## Get started
+---
 
-1. Install dependencies
+##Features
 
-   ```bash
-   npm install
-   ```
+-  Explore feed with trending and nearby posts
+-  Community section with discussions
+-  User profile with editable info
+-  Notification panel (with placeholder)
+-  Clean UI using custom components and themes
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📱 How to Run This App on Your Phone (Expo)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+###  Install Prerequisites
+-  [Node.js](https://nodejs.org/)
+-  [Expo CLI](https://docs.expo.dev/get-started/installation/)
+-  [Expo Go App](https://expo.dev/client) on your **Android/iOS phone**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Clone this repository
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+bash
+git clone https://github.com/shreyhaha/social-app.git
+cd social-app                                                                                                                                   Install dependencies:
+- npm install                                                                                                                                             Start the development server
+npx expo start
+This will open a QR code in your terminal or browser.
+5️⃣ Open the app on your phone
+Open the Expo Go app on your phone
+Scan the QR code shown in your terminal/browser
+✅ The app will run instantly on your device!
