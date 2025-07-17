@@ -36,4 +36,7 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# local development and editor settings
+.vscode/
+
 app-example
